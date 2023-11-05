@@ -22,9 +22,10 @@ export default function Meme() {
       randomImage: url,
     }));
   }
-  console.log(meme.randomImage);
+
   function handleChange(event) {
     const { name, value } = event.target;
+
     setMeme((prevMeme) => ({
       ...prevMeme,
       [name]: value,
