@@ -2,7 +2,7 @@
 
 Create your own Meme!
 
-Click here 👉: [Meme-Generator](https://elena-meme-generator.netlify.app/)
+Click here: 👉  [Meme-Generator](https://elena-meme-generator.netlify.app/)
 
 ## Table of contents
 
