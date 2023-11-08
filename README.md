@@ -55,7 +55,7 @@ Start the server
 - CSS
 - Flexbox
 - CSS Grid
-- Java Script
+- JavaScript
 - [React](https://reactjs.org/) - JS library
 
 ### Useful resources
