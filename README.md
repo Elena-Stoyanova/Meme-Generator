@@ -1,6 +1,6 @@
 # Meme Generator
 
-Create your own Meme!
+Create your Meme!
 
 Click here: 👉  [Meme-Generator](https://elena-meme-generator.netlify.app/)
 
@@ -17,9 +17,9 @@ Click here: 👉  [Meme-Generator](https://elena-meme-generator.netlify.app/)
 
 ### Instructions
 
-- Click the button to find your inspiration from image.
+- Click the button to find your inspiration from the image.
 - Then write something.
-- And thats it. Just have fun! 🤪
+- And that's it. Just have fun! 🤪
 
 ### Run Locally
 
